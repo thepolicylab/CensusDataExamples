@@ -1,4 +1,8 @@
 census
+descartes
+geopandas
 jupyter
 pandas
+python-dotenv
+rtree
 us

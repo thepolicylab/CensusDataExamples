@@ -15,7 +15,9 @@ pip install -r requirements.txt
 
 Then you will need to acquire a
 [https://api.census.gov/data/key_signup.html](Census API key). Write this down
-in a convenient place. (We use our password managers.)
+in a convenient place. (We use our password managers.) But also we suggest
+creating a `.env` file that looks like `.env.sample` and put your API key
+in the designated location.
 
 You will then need to look up various geographic codes to find exactly what you
 want. There are examples in line of how to do this!
